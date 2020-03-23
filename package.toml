@@ -1,0 +1,6 @@
+[source]
+name = "udp6proxy"
+description = ""
+threebot = "jumpscale"
+version = "1.0.0"
+
